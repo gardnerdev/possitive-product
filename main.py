@@ -62,10 +62,9 @@ def maxLenSub(arr, N):
 # Driver Code
 if __name__ == "__main__":
 
-    arr = [1, -1, -1, 1, 1, -1]
-    N = len(arr)
-    print(maxLenSub(arr, N))
-
-    arr = [1, -1, -1, -1, 1, 1]
-    N = len(arr)
-    print(maxLenSub(arr, N))
+    arr_1 = [1, -1, -1, 1, 1, -1]
+    N = len(arr_1)
+    arr_2 = [1, -1, -1, -1, 1, 1]
+    N_2 = len(arr_2)
+    print(maxLenSub(arr_1, N))
+    print(maxLenSub(arr_2, N_2))
