@@ -1,4 +1,4 @@
-# Subarrays algorithm
+# Possitive product task
 
 Given an list arr consisting of N integers `-1` or `1` the task is to print the length of the longest subarray with a product equal 1
 
